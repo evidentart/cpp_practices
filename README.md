@@ -1,1 +1,1 @@
-Educational & Personal Projects
+practices & personal Projects
