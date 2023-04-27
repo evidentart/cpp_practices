@@ -1,1 +1,1 @@
-practices & personal Projects
+practices & personal projects
