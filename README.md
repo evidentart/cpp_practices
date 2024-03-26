@@ -1,1 +1,1 @@
-Collection of mini projects written in C++
+Collection of mini practices written in C++
